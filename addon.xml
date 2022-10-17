@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
-  id="skin.xonfluence"
+  id="skin.konfuzius"
   version="4.1.1"
-  name="Xonfluence"
-  provider-name="Helly,bsoriano">
+  name="Konfuzius"
+  provider-name="KOVI18">
   <requires>
     <import addon="xbmc.gui" version="5.15.0"/>
   </requires>
