@@ -1,8 +1,9 @@
-skin.xonfluence:
+skin.konfuzius:
+eine Modifikation
 
-See:
-https://forum.kodi.tv/showthread.php?tid=315391
+mehr unter:
+https://kovi.ml/skin.konfuzius
      
 
 
-Please send Comments and Bugreports to hellyrulez@home.nl
+Please send Comments and Bugreports to he
